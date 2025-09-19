@@ -11,6 +11,8 @@ Make sure you have installed the [Sylvian extension](https://marketplace.visuals
 
 If done correctly, your .competition file should include `email=your_email_here`. **DO NOT EDIT THIS .competition FILE**!
 
+After having worked in your repository for a little, you should be able to go to quantchallenge.org > dashboard > settings and see that the extension is active. It is not active, please contact support in the Discord!
+
 ## Directories
 
 This repo consists of two folders: /research and /trading.
